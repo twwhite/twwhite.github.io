@@ -4,6 +4,7 @@ languageCode = 'en-us'
 theme = 'lowkey'
 title = 'Susie & Tim Get Married!'
 enableRobotsTXT = true
+publishDir = '../'
 
 # List Config
 summaryLength= 2
