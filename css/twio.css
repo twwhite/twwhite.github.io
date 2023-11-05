@@ -1,0 +1,9 @@
+h1,h2,h3,h4,h5 {
+    font-size: revert !important;
+    font-weight: revert !important;
+    padding-top: 1rem !important;
+}
+
+main p a {
+    color: blue !important;
+}
