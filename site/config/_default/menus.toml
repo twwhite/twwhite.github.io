@@ -1,0 +1,20 @@
+
+
+[[main]]
+    identifier = "wedding"
+    name = "Wedding Details"
+    url = "/wedding"
+    weight = 1
+
+[[main]]
+    identifier = "rsvps"
+    name = "RSVP"
+    url = "/rsvp"
+    weight = 2
+
+[[main]]
+    identifier = "faq"
+    name = "FAQ"
+    url = "/faq"
+    weight = 3
+
